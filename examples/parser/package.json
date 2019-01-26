@@ -9,7 +9,7 @@
         "test": "mocha \"!(node_modules)/**/*spec.js\""
     },
     "dependencies": {
-        "chevrotain": "*",
+        "chevrotain": ">=4.2.0",
         "lodash": "~4.17.10",
         "shx": "^0.3.2"
     },
