@@ -7,7 +7,7 @@
         "test": "yarn run build_ts && yarn run build_coffee && mocha \"*spec.js\""
     },
     "dependencies": {
-        "chevrotain": "*"
+        "chevrotain": ">=4.2.0"
     },
     "devDependencies": {
         "coffee-script": "^1.11.1",
